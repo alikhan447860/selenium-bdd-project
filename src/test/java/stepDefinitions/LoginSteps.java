@@ -26,7 +26,7 @@ public class LoginSteps {
 
     @Then("I should see the homepage")
     public void validate_homepage() {
-        System.out.println("Validate successful login here from harvey specter ");
+        System.out.println("Validate successful login here from harvey specte);
         System.out.println("Mike Ross");
         driver.quit();
     }
